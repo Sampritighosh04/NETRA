@@ -16,7 +16,6 @@ The Smart Cap for blind individuals is an innovative wearable device designed to
     <td>
         <img src="pic1.jpg" alt="" width="200" height="300">
         <img src="pic2.jpg" alt="" width="200" height="600">
-      
     </td>
   </tr>
 </table>
