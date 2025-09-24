@@ -22,4 +22,6 @@ The Smart Cap for blind individuals is an innovative wearable device designed to
 
  <h4>Referenes:</h4>
 1. https://troindia.in/journal/ijcesr/vol7iss7/63-67.pdf
+
+
 2. https://www.researchgate.net/publication/344507436_Ultrasonic_Sensor_based_Smart_Cap_as_Electronic_Travel_Aid_for_Blind_People
